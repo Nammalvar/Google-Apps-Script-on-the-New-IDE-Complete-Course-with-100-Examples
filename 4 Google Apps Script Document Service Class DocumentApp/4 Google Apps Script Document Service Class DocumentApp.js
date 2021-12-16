@@ -555,7 +555,7 @@ function modal2(){
 
 
 
-//Lesson 18 // à étudier de près
+//Lesson 18 // à étudier de près, utiliser l'extension chrome Photos Direct Link pour que ça fonctionne !
 
 /* 
 UrlFetchApp
